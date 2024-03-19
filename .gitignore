@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/history/
+/.idea/
+/.vscode/
+/__pycache__/
+/data/
+/data_management/
+/figure_save/
